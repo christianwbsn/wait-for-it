@@ -14,3 +14,6 @@ Using pip
 ```
 pip3 install -r requirements.txt
 ```
+
+<!-- stats starts -->
+<!-- stats ends -->
